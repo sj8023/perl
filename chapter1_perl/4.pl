@@ -1,0 +1,30 @@
+#!/usr/bin/perl -w
+@bases = ('A', 'G', 'C', 'T');
+print "@bases\n\n";
+print "here's the two elemennts inserted after 1th elements:";
+splice (@bases, 1, 1, 'X', 'N');
+print "@bases\n\n";
+$base1 = pop @bases;
+print "here's the element removed from the bases:";
+print "$base1\n\n";
+print "here's the ramaining array of the bases:";
+print "@bases\n\n";
+unshift (@bases, $base1);
+print "here's the end element put on the beginning:";
+print "@bases\n\n";
+$base2 = shift @bases;
+print "here's the element removed from the bases:";
+print "$base2\n\n";
+print "here's the ramaining array of the bases:";
+print "@bases\n\n";
+push (@bases, $base2);
+print "here's the element put on tne end:";
+print "@bases\n\n";
+@reverse = reverse @bases;
+print "here's the reverse array:";
+print "@reverse\n\n";
+$base5 = @reverse;
+print "here's the length of the reverse :";
+print $base5 . "\n\n";
+exit;
+
