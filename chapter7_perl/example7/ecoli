@@ -1,0 +1,150 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+214092	Yersinia pestis CO92	1172938	0	live	'glpX	YPO0089	pseudo				NC_003143.1	99525	100193	minus	0		
+10678	Enterobacteria phage P1	2777387	0	live	23	P1_gp058	head morphogenesis	major capsid protein|gp23			NC_005856.1	57067	58773	minus	0		
+1288825	Shigella flexneri 2b	1263402	0	live	32	D742_p2116, R100p062	32	32|hypothetical protein			NC_002134.1	48847	49668	plus	0		
+162160	Pseudoalteromonas telluritireducens	29553693	0	live	A2I98_RS08450	A2I98_RS08450, A2I98_14045	hypothetical protein										
+162160	Pseudoalteromonas telluritireducens	29553732	0	live	A2I98_RS09375	A2I98_RS09375, A2I98_14970	DNA polymerase I										
+162160	Pseudoalteromonas telluritireducens	29554477	0	live	A2I98_RS12565	A2I98_RS12565, A2I98_18010	7-carboxy-7-deazaguanine synthase QueE										
+162160	Pseudoalteromonas telluritireducens	29550839	0	live	A2I98_RS16640	A2I98_RS16640, A2I98_03620	patatin family protein										
+162160	Pseudoalteromonas telluritireducens	29551700	0	live	A2I98_RS18715	A2I98_RS18715, A2I98_05645	patatin										
+1196835	Pseudomonas stutzeri CCUG 29243	13147563	0	live	A458_RS42580	A458_RS42580, A458_20760	DNA polymerase I				NC_018028.1	4471932	4474676	minus	0		
+1197884	Acinetobacter venetianus VE-C3	29854661	0	live	A489_RS0101645	A489_RS0101645	patatin family protein										
+413999	Clostridium botulinum A str. ATCC 3502	5184600	0	live	aad	CBO0345, adhE	bifunctional acetaldehyde-CoA/alcohol dehydrogenase				NC_009495.1	399431	402019	plus	0		
+243090	Rhodopirellula baltica SH 1	1792900	0	live	aas	RB6533	acyl-[ACP]--phospholipid O-acyltransferase				NC_005027.1	3468775	3471075	plus	0		
+571	Klebsiella oxytoca	29382000	0	live	AB185_RS06980	AB185_RS06980, AB185_06965	DNA polymerase I										
+571	Klebsiella oxytoca	29377844	0	live	AB185_RS12865	AB185_RS12865, AB185_12835	7-carboxy-7-deazaguanine synthase QueE										
+571	Klebsiella oxytoca	29382607	0	live	AB185_RS32205	AB185_RS32205, AB185_32170	patatin family protein										
+367737	Arcobacter butzleri RM4018	24304306	0	live	ABU_RS06335	ABU_RS06335, Abu_1270	DNA polymerase I				NC_009850.1	1267741	1270431	minus	0		
+147467	Staphylococcus sciuri subsp. sciuri	29539149	0	live	AC563_RS04035	AC563_RS04035	patatin family protein										
+358	Agrobacterium tumefaciens	29356691	0	live	Ach5_RS00530	Ach5_RS00530, Ach5_00980	DNA polymerase I			circular							
+964	Herbaspirillum seropedicae	29393662	0	live	ACP92_RS02260	ACP92_RS02260, ACP92_02260	DNA polymerase I										
+964	Herbaspirillum seropedicae	29390954	0	live	ACP92_RS23755	ACP92_RS23755, ACP92_23785	patatin										
+272560	Burkholderia pseudomallei K96243	3094516	0	live	acpD	BPSL3056	ACP phosphodieterase			1	NC_006350.1	3645743	3646339	minus	0		
+103855	Bordetella hinzii	29513361	0	live	ACR54_RS06930	ACR54_RS06930, ACR54_01396	membrane protein										
+103855	Bordetella hinzii	29515870	0	live	ACR54_RS17350	ACR54_RS17350, ACR54_03497	DNA polymerase I										
+220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	17779154	0	live	acrE	STY3569	pseudo				NC_003198.1	3413104	3413529	plus	0		
+243090	Rhodopirellula baltica SH 1	1792396	0	live	acs	RB13264	acetyl-coenzyme A synthetase				NC_005027.1	7112044	7114059	plus	0		
+411466	Actinomyces odontolyticus ATCC 17982	25046364	0	live	ACTODO_RS02320	ACTODO_RS02320, ACTODO_00521	CRISPR-associated protein Cse1										
+411466	Actinomyces odontolyticus ATCC 17982	25046040	0	live	ACTODO_RS03940	ACTODO_RS03940, ACTODO_00872	phospholipase										
+178901	Acetobacter malorum	29557523	0	live	AD930_RS09655	AD930_RS09655, AD930_09685	DNA polymerase I										
+178901	Acetobacter malorum	29558757	0	live	AD930_RS16965	AD930_RS16965, AD930_16990	DNA polymerase III subunit epsilon										
+615	Serratia marcescens	2653896	0	live	adhC	SMR0104	alcohol dehydrogenase class III				NC_005211.1	98486	99604	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4714580	0	live	adrA	YE3010	diguanylate cyclase/phosphodiesterase domain-containing protein				NC_008800.1	3280995	3282047	plus	0		
+272560	Burkholderia pseudomallei K96243	3096239	0	live	aer	BPSS0276, air	aerotaxis receptor			2	NC_006351.1	367570	369114	plus	0		
+1168744	Listeria phage vB_LmoM_AG20	15041689	0	live	AG2_130	AG2_130	3'-5' exonuclease				NC_020871.1	99734	100570	plus	0		
+160490	Streptococcus pyogenes M1 GAS	900828	0	live	agaD	SPy_0629, SPy0629	putative PTS dependent galactosamine IID component				NC_002737.2	506023	506844	minus	0		
+160490	Streptococcus pyogenes M1 GAS	900901	0	live	agaS	SPy_0716, SPy0716	putative tagatose-6-phosphate aldose/ketose isomerase				NC_002737.2	574470	575669	plus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4712490	0	live	agaS	YE2449	pseudo				NC_008800.1	2638092	2638526	plus	0		
+1050720	Agrobacterium tumefaciens F2	23240245	0	live	AGAU_RS03710	AGAU_RS03710, Agau_C101159	DNA polymerase I			C							
+160490	Streptococcus pyogenes M1 GAS	900830	0	live	agaV	SPy_0631, SPy0631	putative PTS dependent N-acetyl-galactosamine-IIB component				NC_002737.2	507632	508120	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4712491	0	live	agaY	YE2450	pseudo				NC_008800.1	2638539	2638949	plus	0		
+380703	Aeromonas hydrophila subsp. hydrophila ATCC 7966	4490508	0	live	AHA_1210	AHA_1210	patatin				NC_008570.1	1318726	1319871	minus	0		
+380703	Aeromonas hydrophila subsp. hydrophila ATCC 7966	4490140	0	live	AHA_1817	AHA_1817	7-carboxy-7-deazaguanine synthase QueE				NC_008570.1	1982243	1982956	plus	0		
+380703	Aeromonas hydrophila subsp. hydrophila ATCC 7966	4489714	0	live	AHA_2574	AHA_2574	alpha/beta hydrolase				NC_008570.1	2867868	2868710	plus	0		
+380703	Aeromonas hydrophila subsp. hydrophila ATCC 7966	4487411	0	live	AHA_3283	AHA_3283	alpha/beta hydrolase				NC_008570.1	3697584	3698420	minus	0		
+272560	Burkholderia pseudomallei K96243	3096133	0	live	ahpC	BPSS0492	alkyl hydroperoxide reductase			2	NC_006351.1	669449	670012	minus	0		
+272560	Burkholderia pseudomallei K96243	3095973	0	live	ahpF	BPSS0491	alkyl hydroperoxide reductase			2	NC_006351.1	667638	669245	minus	0		
+272560	Burkholderia pseudomallei K96243	3092197	0	live	aidB	BPSL0223	acyl-CoA dehydrogenase			1	NC_006350.1	231828	233507	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4714029	0	live	aidD	YE3631, alkB	alkylated DNA repair protein				NC_008800.1	3960008	3960673	minus	0		
+74547	Prochlorococcus marinus str. MIT 9313	29493481	0	live	AKG35_RS06200	AKG35_RS06200, PMT1157, RG24_RS06220	DNA polymerase I				NC_005071.1	1246207	1249167	plus	0		
+1117320	Pseudoalteromonas undina DSM 6065	23233780	0	live	AL087_RS07255	AL087_RS07255, PUND_07244, PUND_RS07265	patatin										
+1117320	Pseudoalteromonas undina DSM 6065	23234112	0	live	AL087_RS08915	AL087_RS08915, PUND_08924, PUND_RS08925	phospholipase										
+1117320	Pseudoalteromonas undina DSM 6065	23235690	0	live	AL087_RS16805	AL087_RS16805, PUND_16783, PUND_RS16815	patatin										
+1117320	Pseudoalteromonas undina DSM 6065	23235779	0	live	AL087_RS17250	AL087_RS17250, PUND_17233, PUND_RS17260	DNA polymerase I										
+1117320	Pseudoalteromonas undina DSM 6065	23235804	0	live	AL087_RS17375	AL087_RS17375, PUND_17363, PUND_RS17385	7-cyano-7-deazaguanosine (preQ0) biosynthesis protein QueE										
+549	Pantoea agglomerans	29374056	0	live	AL522_RS04285	AL522_RS04285, AL522_04285	DNA polymerase I										
+549	Pantoea agglomerans	29372956	0	live	AL522_RS19385	AL522_RS19385, AL522_19390	7-carboxy-7-deazaguanine synthase QueE										
+549	Pantoea agglomerans	29374454	0	live	AL522_RS20175	AL522_RS20175, AL522_20180	patatin family protein										
+676	Vibrio fluvialis	29384569	0	live	AL536_RS10550	AL536_RS10550, AL536_10550	patatin family protein			2							
+676	Vibrio fluvialis	29384821	0	live	AL536_RS13245	AL536_RS13245, AL536_13245	patatin family protein			2							
+676	Vibrio fluvialis	29387467	0	live	AL536_RS13940	AL536_RS13940, AL536_13940	7-carboxy-7-deazaguanine synthase QueE			2							
+676	Vibrio fluvialis	29386364	0	live	AL536_RS20700	AL536_RS20700, AL536_20700	DNA polymerase I			2							
+749927	Amycolatopsis mediterranei U32	9434526	0	live	AMED_0313	AMED_0313	patatin-like phospholipase				NC_014318.1	324266	325195	plus	0		
+749927	Amycolatopsis mediterranei U32	9436371	0	live	AMED_2157	AMED_2157	patatin-like phospholipase				NC_014318.1	2314177	2315046	minus	0		
+320483	Anaplasma marginale str. Florida	7398004	0	live	AMF_RS07415	AMF_RS07415, AMF_467	DNA polymerase III subunit epsilon				NC_012026.1	563237	563935	plus	0		
+386585	Escherichia coli O157:H7 str. Sakai	914045	0	live	ampC	ECs5131	beta-lactamase				NC_002695.1	5232091	5233224	minus	0		
+272560	Burkholderia pseudomallei K96243	3094504	0	live	ampD	BPSL2993	N-acetyl-anhydromuranmyl-L-alanine amidase			1	NC_006350.1	3569181	3569771	minus	0		
+177416	Francisella tularensis subsp. tularensis SCHU S4	3192356	0	live	ampG	FTT_0070c	major facilitator superfamily transporter				NC_006570.2	70944	72209	minus	0		
+654	Aeromonas veronii	28675646	0	live	AMS64_RS01305	AMS64_RS01305, AMS64_01300	DNA polymerase I										
+654	Aeromonas veronii	28676095	0	live	AMS64_RS03575	AMS64_RS03575, AMS64_03555	patatin family protein										
+654	Aeromonas veronii	28677674	0	live	AMS64_RS11495	AMS64_RS11495, AMS64_11475	patatin family protein										
+654	Aeromonas veronii	28678917	0	live	AMS64_RS17730	AMS64_RS17730, AMS64_17720	patatin										
+272560	Burkholderia pseudomallei K96243	3095666	0	live	ansA	BPSS2060	L-asparaginase			2	NC_006351.1	2793880	2794935	minus	0		
+272560	Burkholderia pseudomallei K96243	3092601	0	live	ansB	BPSL1448	L-asparaginase II			1	NC_006350.1	1683714	1684757	plus	0		
+436717	Acinetobacter oleivorans DR1	9381003	0	live	AOLE_RS03050	AOLE_RS03050, AOLE_02950	esterase				NC_014259.1	628074	628934	minus	0		
+436717	Acinetobacter oleivorans DR1	9383718	0	live	AOLE_RS16425	AOLE_RS16425, AOLE_16400	DNA polymerase I				NC_014259.1	3493162	3495933	plus	0		
+634452	Acetobacter pasteurianus IFO 3283-01	8435037	0	live	APA01_RS04410	APA01_RS04410, APA01_08710	DNA polymerase III subunit epsilon				NC_013209.1	903294	903968	plus	0		
+634452	Acetobacter pasteurianus IFO 3283-01	8436046	0	live	APA01_RS10890	APA01_RS10890, APA01_21430	DNA polymerase I				NC_013209.1	2328657	2331458	plus	0		
+634452	Acetobacter pasteurianus IFO 3283-01	8426578	0	live	APA01_RS14205	APA01_RS14205, APA01_41090	subtype I-E CRISPR-associated endonuclease Cas1				NC_013210.1	122168	123127	plus	0		
+107806	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	1109670	0	live	apbE	BU227					NC_002528.1	250805	251880	minus	0		
+212042	Anaplasma phagocytophilum str. HZ	3931235	0	live	APH_RS03005	APH_RS03005, APH_0730	DNA polymerase III subunit epsilon				NC_007797.1	775329	776063	minus	0		
+615	Serratia marcescens	2653897	0	live	aphA	SMR0110	aminoglycoside 3'-phosphotransferase				NC_005211.1	103018	103833	minus	0		
+416269	Actinobacillus pleuropneumoniae serovar 5b str. L20	4849768	0	live	APL_RS02430	APL_RS02430, APL_0473	DNA polymerase I				NC_009053.1	543301	546174	plus	0		
+416269	Actinobacillus pleuropneumoniae serovar 5b str. L20	4850101	0	live	APL_RS10580	APL_RS10580, APL_1996	patatin family protein				NC_009053.1	2222376	2223227	plus	0		
+47885	Pseudomonas oryzihabitans	29478737	0	live	APT59_RS00725	APT59_RS00725, APT59_00725	DNA polymerase I										
+47885	Pseudomonas oryzihabitans	29478117	0	live	APT59_RS08875	APT59_RS08875, APT59_08875	Patatin										
+83655	Leclercia adecarboxylata	30330279	0	live	APT61_RS00150	APT61_RS00150, APT61_00150	DNA polymerase I										
+83655	Leclercia adecarboxylata	30331173	0	live	APT61_RS04645	APT61_RS04645, APT61_04645	7-carboxy-7-deazaguanine synthase QueE										
+83655	Leclercia adecarboxylata	30334060	0	live	APT61_RS19175	APT61_RS19175, APT61_19175	patatin family protein										
+983594	Burkholderia cepacia ATCC 25416	29784354	0	live	APZ15_RS19905	APZ15_RS19905, APZ15_19905	DNA polymerase I			2							
+983594	Burkholderia cepacia ATCC 25416	29784684	0	live	APZ15_RS24925	APZ15_RS24925, APZ15_24925	membrane protein			2							
+983594	Burkholderia cepacia ATCC 25416	29785167	0	live	APZ15_RS26735	APZ15_RS26735, APZ15_26735	alpha/beta hydrolase			2							
+983594	Burkholderia cepacia ATCC 25416	29784458	0	live	APZ15_RS29125	APZ15_RS29125, APZ15_29125	patatin			2							
+983594	Burkholderia cepacia ATCC 25416	29785861	0	live	APZ15_RS36185	APZ15_RS36185, APZ15_36185	membrane protein			3							
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4714308	0	live	aqpZ	YE2854, bniP	aquaporin Z				NC_008800.1	3102357	3103061	minus	0		
+243090	Rhodopirellula baltica SH 1	1793951	0	live	araC	RB1454	xylose operon regulatory protein				NC_005027.1	738371	739687	plus	0		
+311403	Agrobacterium radiobacter K84	29633464	0	live	ARAD_RS00800	ARAD_RS00800, Arad_0198	patatin			1	NC_011985.1	174476	175636	minus	0		
+311403	Agrobacterium radiobacter K84	29635098	0	live	ARAD_RS01105	ARAD_RS01105, Arad_0271	DNA polymerase I			1	NC_011985.1	243543	246545	plus	0		
+272560	Burkholderia pseudomallei K96243	3095667	0	live	araF	BPSS1220	L-arabinose-binding periplasmic protein precursor			2	NC_006351.1	1649914	1650915	plus	0		
+81972	Arabidopsis lyrata subsp. lyrata	9330339	0	live	ARALYDRAFT_474208	ARALYDRAFT_474208	hypothetical protein			Unknown							
+81972	Arabidopsis lyrata subsp. lyrata	9319321	0	live	ARALYDRAFT_898479	ARALYDRAFT_898479	POLGAMMA1			Unknown							
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713675	0	live	arbF	YE2104	PTS system beta-glucoside-specific transporter subunit IIABC				NC_008800.1	2305196	2307097	minus	0		
+272560	Burkholderia pseudomallei K96243	3095641	0	live	argT	BPSS0269	ABC transporter substrate-binding protein			2	NC_006351.1	358089	358871	minus	0		
+210007	Streptococcus mutans UA159	1028162	0	live	aroE	SMU_778, SMU.778	shikimate 5-dehydrogenase				NC_004350.2	729574	730443	plus	0		
+272560	Burkholderia pseudomallei K96243	3096175	0	live	aroP	BPSS0807	aromatic amino acid transport protein			2	NC_006351.1	1080971	1082356	plus	0		
+243090	Rhodopirellula baltica SH 1	1795681	0	live	arsA	RB9551	ArsA-catalytic subunit of arsenic oxyanion-translocating ATPase				NC_005027.1	5135358	5137139	minus	0		
+243090	Rhodopirellula baltica SH 1	1793462	0	live	arsA	RB9498	arylsulfatase				NC_005027.1	5099139	5100695	plus	0		
+243090	Rhodopirellula baltica SH 1	1789941	0	live	arsA	RB7995	arylsulfatase				NC_005027.1	4273470	4275440	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713862	0	live	arsA2	YE3473	arsenical pump-driving ATPase				NC_008800.1	3784726	3786477	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	7693144	0	live	arsB	R64_p023	arsB	arsB|hypothetical protein			NC_005014.1	22582	23871	plus	0		
+615	Serratia marcescens	2653898	0	live	arsB	SMR0177	arsenical pump membrane protein				NC_005211.1	159729	161018	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713863	0	live	arsB2	YE3474	arsenical pump membrane protein				NC_008800.1	3786526	3787815	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	7693055	0	live	arsC	R64_p024	arsC	arsC|arsenate reductase			NC_005014.1	23884	24309	plus	0		
+615	Serratia marcescens	2653899	0	live	arsC	SMR0176	arsenate reductase				NC_005211.1	159291	159716	minus	0		
+160490	Streptococcus pyogenes M1 GAS	901049	0	live	arsC	SPy_0891, SPy0891	putative arsenate reductase				NC_002737.2	739226	739666	plus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713174	0	live	arsC	YE3364	arsenate reductase				NC_008800.1	3677085	3677510	minus	0		
+243090	Rhodopirellula baltica SH 1	1790697	0	live	arsC	RB11157	arsenate reductase				NC_005027.1	6056146	6056496	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713864	0	live	arsC2	YE3475	arsenate reductase				NC_008800.1	3787828	3788253	plus	0		
+90371	Salmonella enterica subsp. enterica serovar Typhimurium	7693059	0	live	arsD	R64_p004	arsD	arsD|hypothetical protein			NC_005014.1	3162	3524	plus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4713861	0	live	arsD	YE3472A	arsenical resistance operon trans-acting repressor				NC_008800.1	3784346	3784708	plus	0		
+243090	Rhodopirellula baltica SH 1	1790552	0	live	arsD	RB9555	ArsD repressor protein				NC_005027.1	5137202	5137570	minus	0		
+83333	Escherichia coli K-12	1263509	0	live	artA	D616_p97107, Fpla095	artA	artA|hypothetical protein			NC_002483.1	82206	82520	minus	0		
+76832	Myroides odoratimimus	29497105	0	live	AS202_RS03815	AS202_RS03815, AS202_03825	DNA polymerase I										
+382245	Aeromonas salmonicida subsp. salmonicida A449	4998833	0	live	ASA_RS05205	ASA_RS05205, ASA_1022	phospholipase				NC_009348.1	1052619	1053467	plus	0		
+382245	Aeromonas salmonicida subsp. salmonicida A449	4996664	0	live	ASA_RS15560	ASA_RS15560, ASA_3128	patatin				NC_009348.1	3379752	3380897	plus	0		
+382245	Aeromonas salmonicida subsp. salmonicida A449	4996249	0	live	ASA_RS20760	ASA_RS20760, ASA_4194	DNA polymerase I				NC_009348.1	4488875	4491631	minus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4715615	0	live	ascB	YE1257	6-phospho-beta-glucosidase				NC_008800.1	1401361	1402791	plus	0		
+393305	Yersinia enterocolitica subsp. enterocolitica 8081	4715613	0	live	ascG	YE1255	regulatory protein				NC_008800.1	1398513	1399544	minus	0		
+1736216	Sphingomonas sp. Leaf34	29954826	0	live	ASF00_RS15800	ASF00_RS15800, ASF00_15810	DNA polymerase I										
+243090	Rhodopirellula baltica SH 1	1795005	0	live	aslA	RB3877	Aryl-sulfate sulphohydrolase				NC_005027.1	2004910	2006460	minus	0		
+243090	Rhodopirellula baltica SH 1	1794581	0	live	aslA	RB9530	arylsulfatase				NC_005027.1	5118294	5119910	minus	0		
+85698	Achromobacter xylosoxidans	29504263	0	live	AT699_RS08370	AT699_RS08370, ERS451415_01690	DNA polymerase I			1							
+85698	Achromobacter xylosoxidans	29504732	0	live	AT699_RS22915	AT699_RS22915, ERS451415_04641	ferredoxin reductase			1							
+637390	Acidithiobacillus thiooxidans ATCC 19377	29720377	0	live	ATHIO_RS0110380	ATHIO_RS0110380	DNA polymerase I										
+1492	Clostridium butyricum	29415977	0	live	ATN24_RS03015	ATN24_RS03015, ATN24_03015	patatin family protein			1							
+243090	Rhodopirellula baltica SH 1	1797132	0	live	atoC	RB10323	acetoacetate metabolism regulatory protein atoC				NC_005027.1	5579287	5580654	plus	0		
+243090	Rhodopirellula baltica SH 1	1796990	0	live	atoC	RB2396	acetoacetate metabolism regulatory protein				NC_005027.1	1246032	1247489	plus	0		
+243090	Rhodopirellula baltica SH 1	1793968	0	live	atoC	RB11669	cetoacetate metabolism regulatory protein atoC				NC_005027.1	6294163	6295608	plus	0		
+243090	Rhodopirellula baltica SH 1	1790445	0	live	atoC	RB3614	acetoacetate metabolism regulatory protein atoC				NC_005027.1	1881510	1882976	minus	0		
+243090	Rhodopirellula baltica SH 1	1790281	0	live	atoC	RB7579	acetoacetate metabolism regulatory protein ATOC				NC_005027.1	4071162	4072619	plus	0		
+160490	Streptococcus pyogenes M1 GAS	901888	0	live	atoD.1	SPy_1638, SPy1638	acetyl-CoA--acetoacetyl-CoA transferase subunit alpha				NC_002737.2	1358247	1358897	plus	0		
+160490	Streptococcus pyogenes M1 GAS	900470	0	live	atoD.2	SPy_0141, SPy0141	acetyl-CoA--acetoacetyl-CoA transferase subunit alpha				NC_002737.2	130131	130790	plus	0		
+243090	Rhodopirellula baltica SH 1	1795086	0	live	atoS	RB4758	sensor protein atoS				NC_005027.1	2438505	2440034	plus	0		
+243090	Rhodopirellula baltica SH 1	1793649	0	live	atpG	RB4917	ATP synthase subunit gamma				NC_005027.1	2530000	2530920	plus	0		
+272560	Burkholderia pseudomallei K96243	3097127	0	live	atpG	BPSS1945	ATP synthase subunit gamma			2	NC_006351.1	2632318	2633166	minus	0		
+296	Pseudomonas fragi	29354689	0	live	AV641_RS00755	AV641_RS00755, AV641_00755	DNA polymerase I										
+296	Pseudomonas fragi	29353704	0	live	AV641_RS07695	AV641_RS07695, AV641_07695	patatin										
+1718161	Paenibacillus phage Tripp	26637023	0	live	AVU89_gp65	AVU89_gp65, TRIPP_65	DNA polymerase				NC_028930.1	38756	40411	plus	0		
+32019	Campylobacter fetus subsp. fetus	29474705	0	live	AVZ34_RS05170	AVZ34_RS05170, ERS739222_01061	DNA polymerase I										
+1454007	Pedobacter borealis DSM 19626	26213507	0	live	AW17_RS04675	AW17_RS04675	DNA polymerase I										
+358	Agrobacterium tumefaciens	29363790	0	live	AWN88_RS20165	AWN88_RS20165, AWN88_20165	DNA polymerase I			linear							
